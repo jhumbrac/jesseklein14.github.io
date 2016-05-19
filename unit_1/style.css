@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+}
+h1, p {
+	color: gold;
+}
+ul {
+	color: purple;
+}
+li {
+	text-decoration: overline;
+}
