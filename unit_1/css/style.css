@@ -1,12 +1,13 @@
 body {
-	background-color: black;
+	background: grey;
 }
 h1, p {
 	color: gold;
 }
 ul {
-	color: purple;
+	color: white;
 }
 li {
-	text-decoration: overline;
+	color: black;
+	font-family: courier;
 }
