@@ -12,13 +12,14 @@ h1 {
 }
 
 p{
-	color: #7F583C;
+	
 	text-align: left;
 	}
 
 #slogan {
 	font-style: italic;
 	text-align: center;
+	color: #7F583C;
 	}
 
 img {
