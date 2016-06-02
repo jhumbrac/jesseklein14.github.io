@@ -1,5 +1,5 @@
 body {
-	color: #45FF68;
+	color: white;
 	top-padding: 22px;
 	margin: 65px;
 	background: rgba(57,76,56,.7);
@@ -11,7 +11,7 @@ h1 {
 }
 
 p{
-	color: #00BBFF;
+	color: #white;
 	text-align: left;
 	}
 
@@ -28,5 +28,5 @@ img {
 	text-style: bold;
 }
 li {
-	color: #00BD75;
+	color: white;
 }
