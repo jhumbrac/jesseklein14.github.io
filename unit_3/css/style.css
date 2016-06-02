@@ -1,0 +1,22 @@
+body {
+	color: #45FF68;
+	top-padding: 22px;
+	margin: 65px;
+	}
+h1 {
+	color: #7F583C;
+	text-align: center;
+
+}
+p{
+	color: #358BFF;
+	text-align: left;
+	}
+#slogan {
+	font-style: italic;
+	text-align: center;
+}
+img {
+	width: 100%;
+	margin: 100%;
+	}
