@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color: white;
 	top-padding: 22px;
-	margin: 65px;
 	background: rgba(57,76,56,.7);
 	}
 
@@ -21,7 +20,8 @@ p{
 #slogan {
 	font-style: italic;
 	text-align: center;
-	color: #7F583C;
+	color: #FFFFFF;
+	font-size: 3em;
 	}
 
 img {
@@ -41,4 +41,12 @@ a {
 a:hover{
 	background: purple;
 	color: white;
+}
+#splash {
+	background:url(../images/market.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding: 10em 0 0;
+	height: 80vh;
+	/* background-position: center; */
 }
